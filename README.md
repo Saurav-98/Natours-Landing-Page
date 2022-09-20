@@ -13,3 +13,5 @@ Natours | Exciting tours for adventurous people
 
 5 - Added the Logo and the Main heading of the Project.
 6 - Centered the Title using absolute positioning and translate: transform(-50%, -50%) property.
+
+7 - Applying ANimations for the Primary Heading on the header using @Keyframe property.
