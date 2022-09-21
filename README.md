@@ -21,3 +21,5 @@ Natours | Exciting tours for adventurous people
 10 - Animating Button using , transform and opacity property on the :hover::After class and added Keyframe to add animation.
 
 11 - converting all px values to rem.
+
+12 - Understanding Css Architecture and using BEM Model on ourn Project
