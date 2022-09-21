@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Natours-Landing-Page
 
 Natours | Exciting tours for adventurous people
@@ -15,3 +13,7 @@ Natours | Exciting tours for adventurous people
 6 - Centered the Title using absolute positioning and translate: transform(-50%, -50%) property.
 
 7 - Applying ANimations for the Primary Heading on the header using @Keyframe property.
+
+8 - Building Cool Animated Button, using pseudo class and transition property.
+
+9 - Animating Button with box-shadow property to make it natural.
