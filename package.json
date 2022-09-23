@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Natours | Exciting tours for adventurous people",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saurav-98/Natours-Landing-Page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saurav-98/Natours-Landing-Page/issues"
+  },
+  "homepage": "https://github.com/Saurav-98/Natours-Landing-Page#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
